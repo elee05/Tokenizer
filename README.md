@@ -10,7 +10,7 @@ Tokenizers are the first stage in the "LLM Pipeline." They convert text into "to
 
 ## Installation
 
-will need to the regex package (python's built in `re` will not be good enough). You can install it with `pip`:
+need to the regex package (python's built in `re` will not be good enough). You can install it with `pip`:
 ```bash
 pip install regex
 # or
