@@ -5,8 +5,7 @@ Tokenizers are the first stage in the "LLM Pipeline." They convert text into "to
 
 ## Prereqs
 
-- Python 3.8, 3.9, 3.10, 3.11, 3.12
-  - https://www.python.org/downloads/
+- just python past 3.8
 
 
 ## Installation
