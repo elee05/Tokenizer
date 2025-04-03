@@ -1,6 +1,8 @@
 # Tokenizers
 
-Tokenizers are the first stage in the "LLM Pipeline." They convert text into "tokens" (a unit that can be processed by a transformer). Project faciliated by BU AI society. Small scale tokenizer trained on Shakespear(feel free to download and try your own dataset) Capable of holding up to 800 unique tokens
+Currently learning more about the drivers of large language models-
+Tokenizers are the first stage in the "LLM Pipeline", so a good place to start. They convert text into "tokens" (a unit that can be processed by a transformer). 
+Worked on this project with BU AI society. Small scale tokenizer trained on Shakespear(feel free to download and try your own dataset) Capable of holding up to 800 unique tokens
 
 
 ## Prereqs
